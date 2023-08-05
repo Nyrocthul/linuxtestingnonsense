@@ -1,0 +1,32 @@
+i3 Control:					|Hardware Buttons:				|Actions:					|
+------------------------------------------------|-----------------------------------------------|-----------------------------------------------|
+🔍+Shift+c		Reload Config		|🔍+F10		Volume up		|🔍+Return		Open Terminal		|
+🔍+Shift+r		Restart i3 in place	|🔍+F9			Volume down		|🔍+d			Open dmenu		|
+🔍+Shift+e		Exit i3			|🔍+F8			Mute Speaker		|🔍+t			Open Firefox		|
+						|🔍+Shift+F8		Mute Mic		|🔍+Shift+q		Kill Window		|
+						|🔍+F7			Brightness +5%		|🔍+Esc		This cheatsheet		|
+						|🔍+F6			Brightness -5%		|						|
+################################################|###############################################|###############################################|
+Navigate:					|Move Windows:					|
+------------------------------------------------|-----------------------------------------------|
+    🔍+					|    🔍+Shift+					|
+	j or Left	Left			|	j or Left	Left			|
+	k or Down	Down			|	k or Down	Down			|
+	l or Up		Up			|	l or Up		Up			|
+	; or Right	Right			|	; or Right	Right			|
+	1-0		Switch to workspace 1-10|	1-0		Take to workspace 1-10	|
+	Space		Focus float or tiles	|	Space		Toggle floating or tiled|
+	a		Focus Parent		|	-		Send to Scratchpad	|
+................................................|...............................................|
+    Alt+Tab		Next Workspace		|    -			Pull Scratchpad back	|
+    Alt+Shift+Tab	Previous Workspace	|						|
+################################################|###############################################|
+Reshape Windows:				|🔍+r Enter resize mode:			|
+------------------------------------------------|-----------------------------------------------|
+🔍+h			Split Horizontal	|        j or Left	shrink width		|
+🔍+v			Split Verticle		|        k or Down	grow height		|
+🔍+e			Toggle Split orientation|        l or Up	shrink height		|
+🔍+s			Switch to Stacking	|        ; or Right	grow width		|
+🔍+w			Switch to Tabbed	|    Return, Esc or 🔍+r to quit		|
+🔍+f			Toggle Fullscreen	|						|
+################################################|###############################################|
